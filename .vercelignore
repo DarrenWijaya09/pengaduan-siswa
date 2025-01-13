@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.local
+.vscode
+.git
+dist/
+build/
+tests/
+logs/
+cache/
+tmp/
